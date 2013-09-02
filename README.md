@@ -52,6 +52,9 @@ browser=(chrome|firefox) mocha ./examples/search_mocha.js
 ```
 
 
+note: The most reliable Selenium target browser to date seems to be Firefox.
+
+
 Configuration
 -------------
 
